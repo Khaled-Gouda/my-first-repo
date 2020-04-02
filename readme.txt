@@ -1,2 +1,5 @@
 welcome to my first repo
-learning gitis going well so far.
+learning git is going well so far.
+the thrid line
+The thrid line
+The thrid line.
